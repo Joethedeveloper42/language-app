@@ -1,0 +1,13 @@
+/*Lib*/
+@import './bootstrap/bootstrap.scss';
+
+/*Custom*/
+@import './custom/Header.scss';
+@import './custom/Search.scss';
+@import './custom/Jumbotron.scss';
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito Sans', sans-serif;
+}
