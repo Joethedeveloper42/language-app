@@ -1,7 +1,7 @@
 import React from 'react';
 import FontAwesome from 'react-fontawesome';
 
-const Jumbrotron = () => {
+const Jumbotron = () => {
   return (
     <div className="jumbotron text-center">
       <FontAwesome name='language' size='4x' /> 
@@ -12,4 +12,4 @@ const Jumbrotron = () => {
   );
 }
 
-export default Jumbrotron;
+export default Jumbotron;
